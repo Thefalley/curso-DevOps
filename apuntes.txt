@@ -1,0 +1,35 @@
+
+grep -r ~ -e vivado
+
+
+grep -r ~ -e ^set
+
+sed 
+
+curl
+
+wget
+
+kiss
+
+duck
+
+busibox
+
+vim/emax -> editores integrados
+
+nano 
+
+dash
+
+estandar poxis ->  Difenrecia entre sh y bash:
+               |-> bash -> usa strings
+               |-> sh   -> no usa strings
+
+shebang -> #! que programa
+/bin/bash
+ls -lah | grep mifichero.sh
+
+#/env/ ...> python3
+
+
